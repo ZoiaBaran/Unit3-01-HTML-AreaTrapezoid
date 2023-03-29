@@ -1,0 +1,30 @@
+*/ Created by: ZoiaB
+* Created on: Mar 2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit3-01-HTML-AreaTrapezoid
+*/
+
+body {
+  background-color: #b3b14d
+  width: 80%;
+  margin: 5% 10%;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Times new roman", sans-serif;
+  color: white;
+  background-color: #a25d8e;
+  padding: 20px;
+}
+
+#div {
+  padding: 20px 10%;
+  background-color: #9fb592;
+  margin-top: 30px;
+}
+
+#display-results {
+  font-weight: bold;
+  color: #1d3c61;
+}
